@@ -1,0 +1,83 @@
+{
+margin:0px;
+padding:0px;
+}
+a:link, a:visited, a:hover; a:active {
+color:#0f0;
+font-size:16px;
+}
+body{
+background:red;
+font-family: "Comic Sans MS", cursive; 
+}
+h1 {
+color:#FF69B4;
+font-size:24px;
+font-family: "Comic Sans MS", cursive;
+font-align: center; 
+}
+p {
+font-size:16px;
+color:#FF69B4;
+font-family: "Comic Sans MS", cursive; 
+
+}
+ul {
+list-style-type:none;
+color: skyblue;
+}
+
+#head {
+color:purple;
+background: url("/media/alumno/341E-EC89/Pagina emprendimiento/GDHGDFHGF.jpeg");
+font-family: "Comic Sans MS", cursive; 
+font-size:2em;
+color:#FF69B4;
+width:100%;
+height:300px;
+}
+
+#body {
+background-color:#FAFAD2;
+float:left;
+height:800px;
+font-size:1.5em;
+font-family: "Comic Sans MS", cursive; 
+width:80%;
+
+}
+
+#menu {
+background-color:#fce4ec;
+float:left;
+color:#fce4ec;
+text-color: #b3e5fc ;
+text-decoration: none;
+font-family: "Comic Sans MS", cursive; 
+height:800px;
+font-size:1.5em;
+width:20%;
+}
+
+#menu a:hover {
+color:#C71585;
+text-decoration: underline;
+}
+
+#menu a {
+color:#C71585;
+text-decoration: none;
+}
+
+#footer {
+background:url("/media/alumno/341E-EC89/Pagina emprendimiento/GDHGDFHGF.jpeg");
+padding:20px;
+color:#FF69B4;
+text-align:center;
+font-family: "Comic Sans MS", cursive;
+font-size: 20px; 
+}
+img {
+width:150px;
+height:200px;
+
